@@ -163,7 +163,7 @@ questions:
       - "AsciiDoc"
       - "Confluence/Jira"
       - "Markdown - CommonMark"
-      - "Markdown - GitHub Flavored Markdown"
+      - "Markdown - GitHub Flavored"
       - "Markdown - MyST"
       - "reStructuredText"
       - "TeX"
